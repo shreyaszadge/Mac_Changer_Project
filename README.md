@@ -1,5 +1,6 @@
 you can change your network interface mac_address using system command 
-but here 
+but here is simple script to change mac address using python the scripts only 
+use in linux terminal scripts it work with python 2.7 or 3 also 
 
 1)  git clone  https://github.com/shreyas2511/Mac_Changer_Project.git
 2)  cd Mac_Changer_Project
@@ -11,8 +12,8 @@ but here
 output of this program 
 
 ─$ sudo python Mac_Changer_1.1.py -i eth0 -m 12:11:22:11:22:11                                                                                                                             
-[sudo] password for kali: 
-[+]MAC address SUCCESSFULLY CHANGED
-[+]OLD_MAC=18:00:00:00:00:00
-[+]NEW_MAC=12:11:22:11:22:11
+ [sudo] password for kali: 
+ [+]MAC address SUCCESSFULLY CHANGED
+ [+]OLD_MAC=18:00:00:00:00:00
+ [+]NEW_MAC=12:11:22:11:22:11
 
