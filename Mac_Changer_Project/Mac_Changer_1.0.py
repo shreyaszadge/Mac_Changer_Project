@@ -1,6 +1,6 @@
 #[+]installation module
 #[+]developer:-shreyas zadge
-#[+]script_version:-1.1
+#[+]script_version:-1.0
 from os import name
 import subprocess
 import optparse
